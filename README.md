@@ -1,4 +1,4 @@
-# ConceptualCaptions-940k
+# ConceptualCaptions-940k(NOT READY YET)
 A subset of Google's ConceptualCaptions(3M) dataset which include 940k samples.
 
 ## Information
